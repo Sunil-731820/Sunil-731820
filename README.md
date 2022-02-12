@@ -40,9 +40,10 @@ Hi I am  Sunil Kumar Gupta from Lucknow Uttar Pradesh.
 <a href="https://www.jetbrains.com/pycharm/download/">JSF PrimeFace</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
             Important Articles Sites  :
-            1 : <a href="https://www.geeksforgeeks.org/">GeeksforGeeks</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            2 : <a href="https://medium.com/">Medium</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            3 : <a href="https://www.javatpoint.com/">JavatPoint</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            
+             <a href="https://www.geeksforgeeks.org/">GeeksforGeeks</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+             <a href="https://medium.com/">Medium</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+             <a href="https://www.javatpoint.com/">JavatPoint</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
