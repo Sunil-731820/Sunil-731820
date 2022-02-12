@@ -32,13 +32,8 @@ Hi I am  Sunil Kumar Gupta from Lucknow Uttar Pradesh.
 <a href="https://www.jetbrains.com/pycharm/download/">JSF  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/pycharm/download/">Google Colab </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/pycharm/download/">Basic Machine Learning </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.jetbrains.com/pycharm/download/">Numpy</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-            <center>
-            <a href="https://www.jetbrains.com/pycharm/download/">Subject Knowledge </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            </center>
-            1 : Database Management System .
-            2 : Basic Computer network .
-            3 : Basic CyberSecurity .
-            4 : Basic Operating System.
+  
             
 
