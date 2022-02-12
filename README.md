@@ -17,4 +17,13 @@ Hi I am  Sunil Kumar Gupta from Lucknow Uttar Pradesh.
 <a href="https://docs.flutter.dev/">Flutter</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://developer.android.com/">Android Studio </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/pycharm/download/">Pycharm </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/idea/download/#section=windows">IntelliJ Idea  </a> 
+<a href="https://www.jetbrains.com/idea/download/#section=windows">IntelliJ Idea  </a> <br><br/>
+<a href="https://www.jetbrains.com/pycharm/download/">Jupiter </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.jetbrains.com/pycharm/download/">Spyder  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.jetbrains.com/pycharm/download/">Anaconda </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.jetbrains.com/pycharm/download/">Linux Terminal </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.jetbrains.com/pycharm/download/">Ubuntu </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.jetbrains.com/pycharm/download/">Manzaro Gnome </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.jetbrains.com/pycharm/download/">Mx-Linux </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.jetbrains.com/pycharm/download/">Linux Mint </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
