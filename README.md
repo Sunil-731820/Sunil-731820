@@ -35,7 +35,7 @@ Hi I am  Sunil Kumar Gupta from Lucknow Uttar Pradesh.
 <a href="https://www.jetbrains.com/pycharm/download/">Numpy</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/pycharm/download/">Pandas</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/pycharm/download/">Matplotlib</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/pycharm/download/">OpenCv </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.jetbrains.com/pycharm/download/">OpenCv </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br></br>
 <a href="https://www.jetbrains.com/pycharm/download/">Spring Boot</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/pycharm/download/">JSF PrimeFace</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
