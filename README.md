@@ -42,6 +42,8 @@ Hi I am  Sunil Kumar Gupta from Lucknow Uttar Pradesh.<br><br/>
 <a href="https://www.geeksforgeeks.org/opencv-python-tutorial/">OpenCv </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br></br>
 <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/">Spring Boot</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.primefaces.org/documentation/">JSF PrimeFace</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://pyautogui.readthedocs.io/en/latest/">PyAutoGUI</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/python-tkinter-tutorial/">Tkinter GUI PyThon</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
           
 
