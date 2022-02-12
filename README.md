@@ -1,7 +1,7 @@
 
-Hi I am  Sunil Kumar Gupta from Lucknow Uttar Pradesh.
-                         - :zap: I love math, programming, data science, and books
-                        - 🌱 I’m addicted to learning and growing every day
+Hi I am  Sunil Kumar Gupta from Lucknow Uttar Pradesh.<br><br/>
+                         - :zap: I love math, programming, data science, and books.<br><br/>
+                        - 🌱 I’m addicted to learning and growing every day.<br></br>
                         - :Earth_India: I am currently sharing a little bit of my knowledge to the world through my blogs
                        
 
