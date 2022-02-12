@@ -25,5 +25,16 @@ Hi I am  Sunil Kumar Gupta from Lucknow Uttar Pradesh.
 <a href="https://www.jetbrains.com/pycharm/download/">Ubuntu </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/pycharm/download/">Manzaro Gnome </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/pycharm/download/">Mx-Linux </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/pycharm/download/">Linux Mint </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.jetbrains.com/pycharm/download/">Linux Mint </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br/>
+<a href="https://www.jetbrains.com/pycharm/download/">Git </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.jetbrains.com/pycharm/download/">FireBase  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.jetbrains.com/pycharm/download/">JSP </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.jetbrains.com/pycharm/download/">JSF  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+            Subjects Knowledge :
+            1 : Database Management System .
+            2 : Basic Computer network .
+            3 : Basic CyberSecurity .
+            4 : 
 
