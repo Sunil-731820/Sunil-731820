@@ -22,26 +22,26 @@ Hi I am  Sunil Kumar Gupta from Lucknow Uttar Pradesh.<br><br/>
 <a href="https://developer.android.com/">Android Studio </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/pycharm/download/">Pycharm </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/idea/download/#section=windows">IntelliJ Idea  </a> <br><br/>
-<a href="https://www.jetbrains.com/pycharm/download/">Jupiter </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/pycharm/download/">Spyder  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/pycharm/download/">Anaconda </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/pycharm/download/">Linux Terminal </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/pycharm/download/">Ubuntu </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/pycharm/download/">Manzaro Gnome </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/pycharm/download/">Mx-Linux </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/pycharm/download/">Linux Mint </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br/>
-<a href="https://www.jetbrains.com/pycharm/download/">Git </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/pycharm/download/">FireBase  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/pycharm/download/">JSP </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/pycharm/download/">JSF  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/pycharm/download/">Google Colab </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/pycharm/download/">Basic Machine Learning </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/pycharm/download/">Numpy</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/pycharm/download/">Pandas</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/pycharm/download/">Matplotlib</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/pycharm/download/">OpenCv </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br></br>
-<a href="https://www.jetbrains.com/pycharm/download/">Spring Boot</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/pycharm/download/">JSF PrimeFace</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://jupyter.org/install">Jupiter </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://docs.spyder-ide.org/current/index.html">Spyder  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.anaconda.com/">Anaconda </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://download.cnet.com/Terminal-for-Linux/3000-20432_4-75206762.html">Linux Terminal </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://ubuntu.com/download/desktop">Ubuntu </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://manjaro.org/download/">Manzaro Gnome </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://mxlinux.org/">Mx-Linux </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linuxmint.com/">Linux Mint </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br/>
+<a href="https://git-scm.com/downloads">Git </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://firebase.google.com/docs/guides">FireBase  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.javatpoint.com/jsp-tutorial">JSP </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.javatpoint.com/jsf-tutorial">JSF  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://colab.research.google.com/">Google Colab </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/machine-learning/">Basic Machine Learning </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/python-numpy/">Numpy</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/pandas-tutorial/">Pandas</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/matplotlib-tutorial/">Matplotlib</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/opencv-python-tutorial/">OpenCv </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br></br>
+<a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/">Spring Boot</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.primefaces.org/documentation/">JSF PrimeFace</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
           
 
