@@ -1,5 +1,9 @@
 
 Hi I am  Sunil Kumar Gupta from Lucknow Uttar Pradesh.
+                         - :zap: I love math, programming, data science, and books
+                        - 🌱 I’m addicted to learning and growing every day
+                        - :Earth_India: I am currently sharing a little bit of my knowledge to the world through my blogs
+                       
 
             Language, Frameworks, IDEs & Opreating Systems
 <!--   Python , Java , Dart , HTML , CSS JavaScript , SQLite , MySQL  -->
