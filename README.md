@@ -33,7 +33,8 @@ Hi I am  Sunil Kumar Gupta from Lucknow Uttar Pradesh.
 <a href="https://www.jetbrains.com/pycharm/download/">Google Colab </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/pycharm/download/">Basic Machine Learning </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/pycharm/download/">Numpy</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  
+<a href="https://www.jetbrains.com/pycharm/download/">Pandas</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.jetbrains.com/pycharm/download/">Matplotlib</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.jetbrains.com/pycharm/download/">OpenCv </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             
 
