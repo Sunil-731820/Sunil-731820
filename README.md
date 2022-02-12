@@ -16,3 +16,5 @@ Hi I am  Sunil Kumar Gupta from Lucknow Uttar Pradesh.
 <a href="https://hibernate.org/orm/documentation/5.6/">Hibernates</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://docs.flutter.dev/">Flutter</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://developer.android.com/">Android Studio </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.jetbrains.com/pycharm/download/">Pycharm </a> 
+<a href="https://www.jetbrains.com/idea/download/#section=windows">IntelliJ Idea  </a> 
