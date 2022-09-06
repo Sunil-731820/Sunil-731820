@@ -7,6 +7,10 @@ Hi I am  Sunil Kumar Gupta from Lucknow Uttar Pradesh.<br><br/>
 
             Language, Frameworks, IDEs & Operating Systems
 <!--   Python , Java , Dart , HTML , CSS JavaScript , SQLite , MySQL  -->
+<a href="https://www.qries.com/">
+         <img alt="Qries" src="https://www.google.com/search?q=python+image&rlz=1C1GCEU_enIN979IN979&oq=python+imag&aqs=chrome.1.69i57j0i433i512j0i131i433i512j0i512l7.7178j0j7&sourceid=chrome&ie=UTF-8#imgrc=XmmuGvoln--UuM"
+         width=150" height="70">
+      </a>
 
 <a href="https://docs.python.org/3/">Python</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://docs.oracle.com/en/java/">Java</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
