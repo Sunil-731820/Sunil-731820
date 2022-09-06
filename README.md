@@ -10,7 +10,7 @@ Hi I am  Sunil Kumar Gupta from Lucknow Uttar Pradesh.<br><br/>
 
 
 <a href="https://docs.python.org/3/">
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ff8%2FPython_logo_and_wordmark.svg%2F2560px-Python_logo_and_wordmark.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython_logo_and_wordmark.svg&tbnid=IYUTKyJhDagcZM&vet=12ahUKEwi55LWAyP_5AhUF9jgGHY-0CgsQMygBegUIARDfAQ..i&docid=EVmS09WSOEFvWM&w=2560&h=759&q=python%20image&ved=2ahUKEwi55LWAyP_5AhUF9jgGHY-0CgsQMygBegUIARDfAQ"></img>
+<img src="C:\Users\sunilg\Desktop\python.jfif"></img>
  Python
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://docs.oracle.com/en/java/">Java</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
