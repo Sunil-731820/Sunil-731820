@@ -10,8 +10,8 @@ Hi I am  Sunil Kumar Gupta from Lucknow Uttar Pradesh.<br><br/>
 
 
 <a href="https://docs.python.org/3/">
-<img src="C:\Users\sunilg\Desktop\python.jfif"></img>
-<img src="https://www.google.com/search?q=image+of+python+gfg&source=lnms&tbm=isch&sa=X&ved=2ahUKEwim1821nKv6AhWmH7cAHSHLDAoQ_AUoA3oECAEQBQ&biw=1366&bih=657&dpr=1#imgrc=MGD5UCMxhdlu2M"></img> 
+<a href="default.asp"><img src="[smiley.gif](https://www.google.com/search?q=image+of+python+gfg&source=lnms&tbm=isch&sa=X&ved=2ahUKEwim1821nKv6AhWmH7cAHSHLDAoQ_AUoA3oECAEQBQ&biw=1366&bih=657&dpr=1#imgrc=MGD5UCMxhdlu2M)" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+
  Python
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://docs.oracle.com/en/java/">Java</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
