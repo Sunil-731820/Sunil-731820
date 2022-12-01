@@ -47,7 +47,6 @@ Hi I am  Sunil Kumar Gupta from Lucknow Uttar Pradesh.<br><br/>
 <a href="https://www.primefaces.org/documentation/">JSF PrimeFace</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://pyautogui.readthedocs.io/en/latest/">PyAutoGUI</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.geeksforgeeks.org/python-tkinter-tutorial/">Tkinter GUI PyThon</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-http://localhost:8080/EmployManagementSystemUsingJSF/PrimeFaces/primeEditor.xhtml
 
 
 
