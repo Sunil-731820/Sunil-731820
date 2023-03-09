@@ -1,5 +1,12 @@
 
-<div data-target="readme-toc.content" class="Box-body px-5 pb-5">
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<div data-target="readme-toc.content" class="Box-body px-5 pb-5">
 		<article class="markdown-body entry-content container-lg"
 			itemprop="text">
 			<h2 align="left" tabindex="-1" dir="auto">
@@ -93,7 +100,7 @@
 					data-canonical-src="https://komarev.com/ghpvc/?username=owaiskhan9654&amp;color=18A558&amp;label=Profile+views"
 					style="max-width: 100%;"></a>
 			</p>
-			
+
 			<p dir="auto"></p>
 			<h3 align="left" tabindex="-1" dir="auto">
 				<a id="user-content-languages-and-tools---------------------"
@@ -227,3 +234,5 @@
 			</h3>
 		</article>
 	</div>
+</body>
+</html>
