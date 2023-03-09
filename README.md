@@ -66,8 +66,7 @@
 <a href="https://www.linkedin.com/in/sunil-kumar-gupta-a609601ba" rel="nofollow"><img src="https://camo.githubusercontent.com/f0e71eb0e756eecc885eb83b30e19bd6b987e820894de52337af304b35b80012/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c6520436f6c61622d4639414230303f7374796c653d666f722d7468652d6261646765266c6f676f3d476f6f676c652d436f6c6162266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&amp;logo=Google-Colab&amp;logoColor=white" style="max-width: 100%;"></a></p>
 </h3></article>
           </div>
-          
-          <a href="https://github.com/Sunil-731820/MediCare_And_Medicaid"></a>
+  
 </body>
 
 
