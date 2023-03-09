@@ -1,4 +1,3 @@
-
 <div data-target="readme-toc.content" class="Box-body px-5 pb-5">
             <article class="markdown-body entry-content container-lg" itemprop="text"><h2 align="left" tabindex="-1" dir="auto"><a id="user-content-----a-skilled-data-scientist-who-has-done-mtech-in-statistical-computing-from-jnu-currently-working-as-a-data-scientist-at-thoucentric--im-currently-working-as-a-data-scientist-at-thoucentricim-looking-to-collaborate-with-other-content-creatorsfun-fact-i-love-to-analyze-data-for-trends-and-patterns-and-interpret-data-with-a-clear-objective-in-mind-and-building-scalable-data-pipelines-this-is-something-that-i-enjoy-a-lot-as-well-learning-new-content-and-sharing-my-knowledge-with-othershow-to-reach-me-quickly-email-me-at-owaiskhan9654gmailcom-" class="anchor" aria-hidden="true" href="#----a-skilled-data-scientist-who-has-done-mtech-in-statistical-computing-from-jnu-currently-working-as-a-data-scientist-at-thoucentric--im-currently-working-as-a-data-scientist-at-thoucentricim-looking-to-collaborate-with-other-content-creatorsfun-fact-i-love-to-analyze-data-for-trends-and-patterns-and-interpret-data-with-a-clear-objective-in-mind-and-building-scalable-data-pipelines-this-is-something-that-i-enjoy-a-lot-as-well-learning-new-content-and-sharing-my-knowledge-with-othershow-to-reach-me-quickly-email-me-at-owaiskhan9654gmailcom-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
  
@@ -6,10 +5,7 @@
 </h2><h3 dir="auto">Hi My Name is Sunil Kumar Gupta From Lucknow (Uttar Pradesh) , Currently working as a Associate  Software Engineer at Infinite Computer Solutions <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> </h3>
 <ul dir="auto">
 <li>
-<p dir="auto">I’m currently working as a Associate  Software Engineer at Infinite Computer Solutions!</p>
-</li>
-<li>
-<p dir="auto">I’m looking to collaborate with other Data Scientist Post</p>
+<p dir="auto">I’m looking to collaborate with other Data Scientist Engineer because I am Good In Mathematics.</p>
 </li>
 <li>
 <p dir="auto">Fun fact: I love to analyze data for Trends & Patterns and Interpret data with a clear Objective in mind and building scalable Data Pipelines. This is something that I enjoy a lot as well learning new content and sharing my knowledge with Others Team Members.</p>
