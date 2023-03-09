@@ -28,7 +28,7 @@
   <a href="https://www.hackerearth.com" rel="nofollow">
 <img src="https://camo.githubusercontent.com/f3d5ecd64e6291315eb02bea651eff0e59fc256e4338fd1d8294b0dd38bf3260/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4861636b657245617274682d2532333243333435342e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4861636b65724561727468266c6f676f436f6c6f723d426c75652f" alt="hacker Earth" data-canonical-src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&amp;style=for-the-badge&amp;logo=HackerEarth&amp;logoColor=Blue/" style="max-width: 100%;"> 
   </a>
-  <a href="https://www.kaggle.com" rel="nofollow">
+  <a href="[https://www.kaggle.com](https://www.kaggle.com/summerva/account)" rel="nofollow">
  <img src="https://camo.githubusercontent.com/7cee5d753cc09e89304953340f14949f14d6624bfb93e6ca28e9bdf4fbac4b79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6167676c652532304d61737465722d3230424546463f7374796c653d666f722d7468652d6261646765266c6f676f3d4b6167676c65266c6f676f436f6c6f723d7768697465" alt="Kaggle" data-canonical-src="https://img.shields.io/badge/Kaggle%20Master-20BEFF?style=for-the-badge&amp;logo=Kaggle&amp;logoColor=white" style="max-width: 100%;"> 
   </a>
     <a href="#" rel="nofollow">
