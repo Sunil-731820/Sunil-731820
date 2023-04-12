@@ -5,13 +5,13 @@
 </h2><h3 dir="auto">Hi, My Name is Sunil Kumar Gupta From Lucknow (Uttar Pradesh) , Currently working as a Associate  Software Engineer at Infinite Computer Solutions <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> </h3>
 <ul dir="auto">
 <li>
-<p dir="auto">I’m looking to collaborate with other Data Scientist Engineer because I am Good In Mathematics.</p>
+<p dir="auto"> I’m looking to collaborate with other Data Scientist Engineer around The World .</p>
 </li>
 <li>
-<p dir="auto">Fun fact  : I love to analyze data for Trends & Patterns and Interpret data with a clear Objective in mind and building scalable Data Pipelines. This is something that I enjoy a lot as well learning new content and sharing my knowledge with Others Team Members.</p>
+<p dir="auto">Fun Fact  : I love to Analyze Data for Trends & Patterns and Interpret Data with a clear Objective in mind and building scalable Data Pipelines. This is something that I enjoy a lot as well Learning new content and sharing my knowledge with Others Team Members.</p>
 </li>
 <li>
-<p dir="auto">How to reach me? Quickly email me at <strong><a href="mailto:sunilkumargupta1170@gmail.com">sunilkumargupta1170@gmail.com</a></strong></p>
+<p dir="auto"> How to reach me ? Quickly email me at <strong><a href="mailto:sunilkumargupta1170@gmail.com">sunilkumargupta1170@gmail.com</a></strong></p>
 </li>
 </ul>
  
