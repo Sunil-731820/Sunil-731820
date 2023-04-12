@@ -8,7 +8,7 @@
 <p dir="auto">I’m looking to collaborate with other Data Scientist Engineer because I am Good In Mathematics.</p>
 </li>
 <li>
-<p dir="auto">Fun fact: I love to analyze data for Trends & Patterns and Interpret data with a clear Objective in mind and building scalable Data Pipelines. This is something that I enjoy a lot as well learning new content and sharing my knowledge with Others Team Members.</p>
+<p dir="auto">Fun fact  : I love to analyze data for Trends & Patterns and Interpret data with a clear Objective in mind and building scalable Data Pipelines. This is something that I enjoy a lot as well learning new content and sharing my knowledge with Others Team Members.</p>
 </li>
 <li>
 <p dir="auto">How to reach me? Quickly email me at <strong><a href="mailto:sunilkumargupta1170@gmail.com">sunilkumargupta1170@gmail.com</a></strong></p>
