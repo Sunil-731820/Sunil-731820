@@ -14,7 +14,14 @@
 <p dir="auto"> How to reach me ? Quickly email me at <strong><a href="mailto:sunilkumargupta1170@gmail.com">sunilkumargupta1170@gmail.com</a></strong></p>
 </li>
 </ul>
+
  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunil-731820&label=Profile%20views&color=0e75b6&style=flat" alt="sunil-731820" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunil-731820" alt="sunil-731820" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
  
   <a href="mailto:sunilkumargupta1170@gmail.com">
     <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="mailto:owaiskhan9654@gmail.com" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
