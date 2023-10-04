@@ -52,7 +52,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunil-731820&show_icons=true&locale=en" alt="sunil-731820" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunil-731820&" alt="sunil-731820" /></p>
 
 </body>
 
