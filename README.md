@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="ISO-8859-1">
-<title>Insert title here</title>
-</head>
-<body>
-	<div data-target="readme-toc.content" class="Box-body px-5 pb-5">
+<div data-target="readme-toc.content" class="Box-body px-5 pb-5">
 		<article class="markdown-body entry-content container-lg"
 			itemprop="text">
 			<h2 align="left" tabindex="-1" dir="auto">
@@ -227,13 +220,6 @@
 					src="https://github-readme-stats.vercel.app/api?username=sunil-731820&show_icons=true&locale=en"
 					alt="sunil-731820" />
 			</p>
-</body>
-
-
-
-</body>
-</html>
-
 
 
 
