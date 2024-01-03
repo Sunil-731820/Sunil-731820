@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sunil Kumar Gupta</h1>
-<h3 align="center">from Lucknow, working as the Senior Software Engineer In Infinite Computer Solutions</h3>
+<h1 align="center">Hi there, I'm Sunil Kumar Gupta working as  👋
+Senior Software Engineer | Tech Enthusiast | Open Source Contribution in Infinite Computer Solutions</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunil-731820&label=Profile%20views&color=0e75b6&style=flat" alt="sunil-731820" /> </p>
 
