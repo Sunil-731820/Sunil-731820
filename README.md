@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Sunil Kumar Gupta from Lucknow</h1>
+<h1 align="center">Hi, I am Sunil Kumar Gupta</h1>
 <h3 align="center">I’m looking to collaborate with other Data Scientist Engineer around The World.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunil-731820&label=Profile%20views&color=0e75b6&style=flat" alt="sunil-731820" /> </p>
