@@ -109,11 +109,6 @@
    _Analyzed customer feedback to determine sentiment using NLP techniques._
    - **Libraries Used**: NLTK, TensorFlow
 
----
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
 
 ---
 
