@@ -1,6 +1,3 @@
-
-![FirstPage](https://github.com/Sunil-731820/Sunil-731820/assets/62325742/3e83e36e-a6f1-48cb-b163-23ad52f2eab2)
-
 ![SecondPage](https://github.com/Sunil-731820/Sunil-731820/assets/62325742/378d7ef4-a933-42b6-b5ae-6fbf69f437cd)
 
 
