@@ -36,6 +36,8 @@
 
 ### **Backend Development**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF9800?style=for-the-badge&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-4CAF50?style=for-the-badge&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
