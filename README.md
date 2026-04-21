@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Sunil Kumar Gupta!
 
-🌟 **Java Full Stack Developer | Data Scientist**  
-🔭 Passionate about building scalable applications and solving real-world problems with data.  
-📫 Reach me at: sunilkumargupta1170@gmail.com | https://www.linkedin.com/in/sunilgupta1705?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app 
-
+🌟 **Java Full‑Stack Developer | Data Science Enthusiast**  
+🔭 Passionate about designing scalable, reliable applications and solving real‑world problems using data and modern engineering practices.  
+🚀 Experienced in building RESTful services, responsive web applications, and end‑to‑end solutions with a strong focus on clean architecture and automation.  
+🌱 Currently exploring Machine Learning and its practical applications in modern web systems.  
+📫 Reach me at: **sunilkumargupta1170@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/sunilgupta1705
 ---
 
 ## 🌐 About Me
