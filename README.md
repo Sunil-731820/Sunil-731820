@@ -1,21 +1,20 @@
 👋 Hi, I'm Sunil Kumar Gupta.
 
-💻 I am a Java Full Stack Developer with a strong interest in Data Science.</br>
-🔧 I enjoy designing scalable and reliable applications and solving real‑world problems using modern engineering practices.</br>
-🌐 I have experience building RESTful APIs, responsive web applications, and end‑to‑end solutions with a focus on clean architecture and automation.</br>
-🌱 Currently, I am exploring Machine Learning and its practical use in modern web systems.</br>
+💻 I am a Java Full Stack Developer with a strong interest in Data Science.
+🔧 I enjoy designing scalable and reliable applications and solving real‑world problems using modern engineering practices.
+🌐 I have experience building RESTful APIs, responsive web applications, and end‑to‑end solutions with a focus on clean architecture and automation.
+🌱 Currently, I am exploring Machine Learning and its practical use in modern web systems.
 
-📫 Email: sunilkumargupta1170@gmail.com  </br>
+📫 Email: sunilkumargupta1170@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/sunilgupta1705
 
+🌐 About Me
+💻 Experienced across application development, CI/CD pipelines, and production deployments.
+📊 Skilled in REST API design, database integration, and performance‑focused backend systems.
+🛠️ Hands‑on with Docker, automation, and monitoring practices inspired by SRE principles.
+🌱 Continuously learning and applying modern technologies to build reliable, scalable solutions.
+⚡ Driven by clean architecture, automation, and solving real‑world engineering challenges.
 
-## 🌐 About Me
-
-- 💻 Java Full‑Stack Developer with experience across application development, CI/CD pipelines, and production deployments.
-- 📊 Skilled in REST API design, database integration, and performance‑focused backend systems.
-- 🛠️ Hands‑on with Docker, automation, and monitoring practices inspired by SRE principles.
-- 🌱 Continuously learning and applying modern technologies to build reliable, scalable solutions.
-- ⚡ Driven by clean architecture, automation, and solving real‑world engineering challenges.
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunil-731820&label=Profile%20views&color=0e75b6&style=flat" alt="sunil-731820" /> </p>
 
