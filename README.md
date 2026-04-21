@@ -7,12 +7,12 @@
 ---
 
 ## 🌐 About Me
-- 💻 Skilled in **Java Full Stack Development** and **Data Science**.
-- 📊 Experienced with building REST APIs, designing responsive web applications, and performing data analysis.
-- 🎯 Currently exploring **Machine Learning in Web Development**.
-- 🌱 Always learning new technologies to stay updated with the tech world.
-- ⚡ Fun fact: I love combining creativity with technology to craft unique solutions.
 
+- 💻 Java Full‑Stack Developer with experience across application development, CI/CD pipelines, and production deployments.
+- 📊 Skilled in REST API design, database integration, and performance‑focused backend systems.
+- 🛠️ Hands‑on with Docker, automation, and monitoring practices inspired by SRE principles.
+- 🌱 Continuously learning and applying modern technologies to build reliable, scalable solutions.
+- ⚡ Driven by clean architecture, automation, and solving real‑world engineering challenges.
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunil-731820&label=Profile%20views&color=0e75b6&style=flat" alt="sunil-731820" /> </p>
 
