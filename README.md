@@ -1,11 +1,11 @@
 👋 Hi, I'm Sunil Kumar Gupta.
 
-💻 I am a Java Full Stack Developer with a strong interest in Data Science.
-🔧 I enjoy designing scalable and reliable applications and solving real‑world problems using modern engineering practices.
-🌐 I have experience building RESTful APIs, responsive web applications, and end‑to‑end solutions with a focus on clean architecture and automation.
-🌱 Currently, I am exploring Machine Learning and its practical use in modern web systems.
+💻 I am a Java Full Stack Developer with a strong interest in Data Science.</br>
+🔧 I enjoy designing scalable and reliable applications and solving real‑world problems using modern engineering practices.</br>
+🌐 I have experience building RESTful APIs, responsive web applications, and end‑to‑end solutions with a focus on clean architecture and automation.</br>
+🌱 Currently, I am exploring Machine Learning and its practical use in modern web systems.</br>
 
-📫 Email: sunilkumargupta1170@gmail.com  
+📫 Email: sunilkumargupta1170@gmail.com  </br>
 🔗 LinkedIn: https://www.linkedin.com/in/sunilgupta1705
 
 
