@@ -4,18 +4,16 @@
 
 
 
-### I have technical experience and interest in:
-* Deep Learning
-* Machine Learning
-* Computer vision 
-* Natural Language Processing
-* MLOps
-* Generative AI 
-* Microcontrollers 
-* Robotics
+## 🚀 Tech Interests
 
+| 🤖 AI & Data Science | ⚙️ Engineering |
+|----------------------|----------------|
+| 🧠 Deep Learning | ⚙️ MLOps |
+| 🤖 Machine Learning | 🔌 Microcontrollers |
+| 👁️ Computer Vision | 🤖 Robotics |
+| 💬 Natural Language Processing | 🌐 Full Stack Development |
+| ✨ Generative AI | ☁️ Cloud & Deployment |
 
-## 🛠️ Tech Stack
 
 ### **Programming Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
