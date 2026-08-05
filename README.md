@@ -63,9 +63,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sunil-731820&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunil-731820&theme=tokyonight"/>
 
 </p>
 
@@ -75,7 +75,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil-731820&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -83,7 +83,7 @@
 
 ### Contribution Graph
 
-[![Sunil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Sunil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sunil-731820&theme=react-dark)](https://github.com/Sunil-731820)
 
 ---
 
@@ -91,7 +91,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sunil-731820&theme=onedark&row=1&column=7"/>
 
 </p>
 
@@ -99,9 +99,9 @@
 
 #### You can also find me on:
 
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- GitHub: https://github.com/Sunil-731820
 - LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+- Email: sugupta1705@gmail.com
 
 ---
 
