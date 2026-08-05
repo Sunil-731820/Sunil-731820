@@ -87,6 +87,65 @@
 * Singing
 * Coding
 
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sunil-731820&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil-731820&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sunil-731820&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sunil-731820&theme=tokyonight&no-frame=true&column=7"/>
+
+</p>
+
+## 🌱 Currently Learning
+
+🤖 AI Agents
+
+🧠 Large Language Models
+
+⚡ LangGraph
+
+🔥 Agentic AI
+
+☁️ MLOps
+
+🚀 Kubernetes
+
+📚 RAG Applications
+
+
+
+## 💡 Quote
+
+> "Artificial Intelligence is not replacing developers. Developers using AI will replace those who don't."
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Sunil-731820/Sunil-731820/output/github-contribution-grid-snake.svg)
+
+## 👀 Visitors
+
+![](https://komarev.com/ghpvc/?username=Sunil-731820&color=blue)
+
+⭐ If you like my work, don't forget to star my repositories.
+
+
 
 
 #### You can also find me on: 
